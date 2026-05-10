@@ -4,7 +4,7 @@ id: intro
 title: TFinAI Bham
 ---
 <div id="scroll-to" class="main-content-box"> <div class="main-content">
-<h2> Welcome to Secure Computer Solutions!<br>Located in Bellingham, WA.</h2>
+<h2> Welcome to TFinAI!<br>Located in Bellingham, WA.</h2>
   <p>We provide AI consulting and development, cyber security, software development, and other IT solutions tailored to your needs.</p>
 </div> </div>
 

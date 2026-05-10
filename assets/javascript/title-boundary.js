@@ -86,9 +86,19 @@ class ScreenWrapper {
 		contentElems.forEach(el => {
 				const div = new DivWrapper(el, screen);
 				console.log(div.toString());
-				if (div.toString().includes("S")) this.scs = div;
-				else if (div.toString().includes("🛡️")) this.logo = div;
-				else if (div.toString().includes("Bellingham")) this.bham = div;
+  contentElems.forEach((el, idx) => {
+    const div = new DivWrapper(el, screen);
+
+    if (el.classList.contains('main-logo')) {
+        this.logo = div;
+    } else if (idx === 0) {
+        this.scs = div;
+    } else {
+        this.bham = div;
+    }
+
+    this.divs.push(div);
+});
 				this.divs.push(div); 
 				});
 
