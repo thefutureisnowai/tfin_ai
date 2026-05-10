@@ -1,7 +1,7 @@
 ---
 layout: default
 id: scheduling
-title: Scheduling SCS Bham
+title: Scheduling TFinAI Bham
 ---
 <div id="scroll-to" class="main-content-box"> <div class="main-content">
 <h2>Scheduling</h2>

@@ -1,7 +1,7 @@
 ---
 layout: default
 id: ai
-title: AI SCS Bham 
+title: AI TFinAI Bham 
 ---
 
 <div class="main-content-box" id="scroll-to"> <div class="main-content"><details class="main-deets"> <summary class="main-summary"> <strong>

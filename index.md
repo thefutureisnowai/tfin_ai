@@ -1,7 +1,7 @@
 ---
 layout: default
 id: intro
-title: SCS Bham
+title: TFinAI Bham
 ---
 <div id="scroll-to" class="main-content-box"> <div class="main-content">
 <h2> Welcome to Secure Computer Solutions!<br>Located in Bellingham, WA.</h2>
@@ -16,38 +16,45 @@ title: SCS Bham
   <details class="main-deets">
     <summary class="main-summary"><strong>How we protect and optimize your systems</strong></summary>
     <br>
-
-    We provide computer repair, data recovery, privacy hardening, and small-business IT support.
-    Our work is rooted in science and engineering — precise, methodical, and action-oriented.
-    We fix problems others give up on, reduce unnecessary costs, and help you get the most out of the hardware you already own.
+    We develop intelligent systems, automation pipelines, AI-assisted workflows, and future-oriented technical infrastructure for individuals and businesses.
+    Our work combines advanced computation, systems engineering, cyber security, and creative problem solving to help organizations adapt, evolve, and thrive in an increasingly technological world.
+    We design solutions that are efficient, resilient, privacy-conscious, and tailored to the unique needs of each client.
     <br><br>
 
-    <strong>Computer Repair & Optimization</strong><br>
-    • Laptop and desktop repair<br>
-    • Cleanups, speedups, malware removal<br>
-    • Broken installs, failed updates, boot issues<br><br>
+    <strong>Artificial Intelligence & Automation</strong><br>
+    • AI-assisted workflows and intelligent automation<br>
+    • Repetitive task reduction and operational optimization<br>
+    • Custom AI integrations, tooling, and experimentation<br>
+    • Intelligent data processing and decision-support systems<br><br>
 
-    <strong>System Services</strong><br>
-    • Windows 11 migration and clean installs<br>
-    • macOS, and Linux installations and system tuning<br>
-    • OS configuration, debloating, and troubleshooting<br><br>
+    <strong>Advanced Systems Engineering</strong><br>
+    • Custom technical infrastructure and workflow design<br>
+    • Cross-platform systems integration and optimization<br>
+    • Linux, cloud, and hybrid computing environments<br>
+    • High-performance and specialized computing solutions<br><br>
 
-    <strong>Hardware Upgrades</strong><br>
-    • SSD and RAM upgrades<br>
-    • Battery replacements, component swaps<br>
-    • Extending hardware lifespan and improving performance<br><br>
+    <strong>Cyber Security & Digital Resilience</strong><br>
+    • Privacy-focused infrastructure and hardened systems<br>
+    • Threat reduction, attack-surface minimization, and monitoring<br>
+    • Secure deployment practices and operational hardening<br>
+    • Ethical, security-conscious AI and data practices<br><br>
 
-    <strong>Privacy Hardening</strong><br>
-    Reduce telemetry and data harvesting on Windows, Mac, Android, iPhone, and Linux.
-    Maintain control of your data and minimize unnecessary tracking.<br><br>
+    <strong>Creative & Experimental Technologies</strong><br>
+    • Rapid prototyping and unconventional technical solutions<br>
+    • Emerging technologies and exploratory development<br>
+    • Scientific computing, simulation, and advanced analytics<br>
+    • Human-centered systems designed to augment capability<br><br>
 
-    <strong>Data Recovery & Memories</strong><br>
-    Extract photos and files from old laptops, phones, hard drives, and forgotten devices — even failed systems.
-    We consolidate and organize your important memories with forensic-level scraping when needed.<br><br>
+    <strong>Data, Knowledge & Intelligence</strong><br>
+    • Data organization, transformation, and automation<br>
+    • AI-assisted research and information synthesis<br>
+    • Forecasting, modeling, and analytical tooling<br>
+    • Building systems that turn information into actionable insight<br><br>
 
-    <strong>Hardware Salvage & Trade-In Options</strong><br>
-    Revive old computers, salvage usable components, or trade them in for value.
-    Our cost-saving mindset prioritizes re-use over replacement whenever possible.<br><br>
+    <strong>Future-Focused Consulting</strong><br>
+    Navigate technological change with confidence.
+    We help businesses understand, evaluate, and responsibly integrate emerging technologies without losing sight of reliability, security, or human needs.
+    Our goal is not merely to keep up with the future, but to help build it deliberately and intelligently.<br><br>
 
   </details>
 </div></div>
@@ -60,16 +67,19 @@ title: SCS Bham
   <details class="main-deets">
     <summary class="main-summary"><strong>Specialized engineering for business needs</strong></summary>
     <br>
-We assist businesses with specialized technical projects, including:
+We help businesses explore, engineer, and deploy advanced technological solutions tailored to ambitious goals, unconventional workflows, and emerging opportunities.
+Our focus is on combining intelligent systems, automation, scientific thinking, and creative engineering to build capabilities that traditional off-the-shelf platforms often cannot provide.
 <ul>
-  <li>Designing custom systems for unique workflows</li>
-  <li>Building small custom software tools and integrations</li>
-  <li>Solving technical problems that don’t fit off-the-shelf solutions</li>
-  <li>Reducing reliance on large vendors and high recurring software costs</li>
-  <li>Introducing efficient, low-cost or open technologies when appropriate</li>
+  <li>Designing intelligent systems and AI-assisted workflows for specialized operations</li>
+  <li>Building custom software tools, automations, and advanced integrations</li>
+  <li>Engineering solutions for technical problems that require unconventional or experimental approaches</li>
+  <li>Developing scalable systems that reduce operational friction and expand human capability</li>
+  <li>Reducing dependence on costly proprietary ecosystems through efficient and adaptable technologies</li>
+  <li>Exploring emerging technologies, scientific computing, and future-oriented infrastructure</li>
+  <li>Creating privacy-conscious and security-focused technical environments</li>
+  <li>Helping organizations responsibly integrate AI and automation into real-world operations</li>
 </ul>
-
-Our focus is on clear, dependable solutions shaped around the specific requirements of the job.
+Our focus is on clear, dependable solutions shaped around the specific requirements of the job — balancing innovation with practicality, experimentation with reliability, and futuristic thinking with real-world results.
   </details>
 </div></div>
 
@@ -83,15 +93,17 @@ Our focus is on clear, dependable solutions shaped around the specific requireme
     <summary class="main-summary">
 	Contact us now for a free consultation, to see how AI can enhance your business or personal life.
     </summary>
-    Examples of AI solutions we offer include:<br>
-- Custom chatbot for your website.<br>
-- Data-driven analysis for actionable insights to cut costs and improve sales.<br>
-- Automation of repetitive tasks to free up your time and make work fun.<br>
-- Forecasting and contrasting outcomes of various strategies, or making data-driven predictions in general.<br>
-- Secure and encrypted data storage and transfer, in your hands.<br>
-- Custom cloud solutions for complex and unique integrations.<br>
+    Examples of advanced AI and intelligent systems we offer include:<br>
+- Custom AI assistants and conversational systems for websites, customer interaction, and internal operations.<br>
+- Data-driven analysis and intelligent modeling to uncover actionable insights, reduce costs, and improve strategic decision making.<br>
+- Automation of repetitive workflows to increase efficiency, reduce operational friction, and free human attention for higher-value work.<br>
+- Forecasting, simulation, and comparative analysis of business strategies, operational scenarios, and emerging trends.<br>
+- Privacy-conscious and encrypted data infrastructure designed to keep sensitive information secure and under your control.<br>
+- Custom cloud and distributed systems engineered for specialized workflows, advanced integrations, and scalable intelligent infrastructure.<br>
+- AI-assisted research, knowledge management, and information synthesis for technical, scientific, and operational environments.<br>
+- Experimental and future-oriented systems that help organizations explore emerging technologies responsibly and strategically.<br>
 <br>
-Whether you're optimizing workflow or building new tools, we help you leverage AI effectively, securely, and profitably.
+Whether you're optimizing existing workflows, integrating intelligent automation, or building entirely new technological capabilities, we help you leverage AI effectively, securely, ethically, and strategically.
   </details>
 </div> </div>
 
