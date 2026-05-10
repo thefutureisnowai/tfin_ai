@@ -11,7 +11,7 @@ title: TFinAI Bham
 <div class="main-content-box"> <div class="main-content">
     <div>
         <h2>IT and Cyber Security</h2>
-        <a href="it.html?doscroll=true">securecomputer.ai/it</a>
+        <a href="it.html?doscroll=true">tfin.ai/it</a>
     </div>
   <details class="main-deets">
     <summary class="main-summary"><strong>How we protect and optimize your systems</strong></summary>
@@ -62,7 +62,7 @@ title: TFinAI Bham
 <div class="main-content-box"> <div class="main-content">
     <div>
         <h2>Professional Business IT</h2>
-        <a href="it.html?business=true">securecomputer.ai/it#business</a>
+        <a href="it.html?business=true">tfin.ai/it#business</a>
     </div>
   <details class="main-deets">
     <summary class="main-summary"><strong>Specialized engineering for business needs</strong></summary>
@@ -87,7 +87,7 @@ Our focus is on clear, dependable solutions shaped around the specific requireme
 <div class="main-content-box"> <div class="main-content">
   <div class="main-deets">
 	<h2>AI and Data</h2>
-	<a href="ai.html?doscroll=true">securecomputer.ai/ai</a><br>
+	<a href="ai.html?doscroll=true">tfin.ai/ai</a><br>
   </div>
   <details class="main-deets">
     <summary class="main-summary">
@@ -109,7 +109,7 @@ Whether you're optimizing existing workflows, integrating intelligent automation
 
 <div class="main-content-box"> <div class="main-content">
 	<h2>Scheduling and Payment</h2>
-	<a href="scheduling.html?doscroll=true">securecomputer.ai/scheduling</a>
+	<a href="scheduling.html?doscroll=true">tfin.ai/scheduling</a>
 	<details class="main-deets">
 		<summary class="main-summary"><strong>Rates, hours, and how to book</strong></summary>
 		<br>

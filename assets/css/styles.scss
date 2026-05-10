@@ -1,6 +1,8 @@
 ---
 ---
-
+.scroll-to-top.hidden {
+    display: none;
+}
 @font-face {
   font-family: 'Audiowide';
   src: url('/assets/fonts/Audiowide-Regular.ttf') format('truetype');
