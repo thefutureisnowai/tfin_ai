@@ -1,0 +1,49 @@
+---
+---
+
+@font-face {
+  font-family: 'Audiowide';
+  src: url('/assets/fonts/Audiowide-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Share Tech Mono';
+  src: url('/assets/fonts/Share_Tech_Mono/ShareTechMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/* Optional: CSS classes, matching Google Fonts naming */
+.audiowide-regular {
+  font-family: 'Audiowide', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.share-tech-mono-regular {
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+@import "colors";
+@import "title-card";
+@import "nav-menu";
+@import "default";
+@import "footer";
+
+html, body, .page-layout, .content, .main-content-box,
+.top-menu, {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.top-menu a {
+  text-decoration: underline;
+}
+.top-menu a:hover,
+.top-menu a:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  text-shadow: 0 0 6px #00ffaa;
+}
+.top-menu a { text-decoration: underline; }

@@ -1,0 +1,854 @@
+about.md
+---
+layout: default
+id: intro
+title: About SCS Bham
+---
+<div class="main-content-box" id="scroll-to"> <div class="main-content">
+<h2 class="main-header">About</h2>
+<p class="main-deets">
+Secure Computer Solutions is a trade-name of The Future is now AI, LLC, which was founded in November 2024 by <a href="https://sethbriney.com/">Seth Briney</a>, a double master's graduate of Western Washington University, in mathematics and computer science. Our purpose is to provide IT solutions for individuals and businesses, with a focus on creativity and individualized solutions, ethical AI, ethical data practices, and cyber security.
+
+Our approach is rooted in science and engineering, and we pride ourselves on delivering work that is consistently reliable, precise, and efficient. We understand the value of getting things right, and we methodically organize and check our work for correctness.
+</p>
+</div></div>
+ai.md
+---
+layout: default
+id: ai
+title: AI SCS Bham 
+---
+
+<div class="main-content-box" id="scroll-to"> <div class="main-content"><details class="main-deets"> <summary class="main-summary"> <strong>
+AI and Data </strong></summary>
+
+AI can streamline your business by improving workflow, increasing worker productivity, answering questions about your business or promoting your business, automating scheduling and other repetitive tasks, impressing your customers, and ultimately generating more revenue for your business. AI and other statistical techniques can provide data-driven insights, and help you make decisions with cost-benefit analysis. You may have various forms of business data, in various formats, on various devices. We can bring all your data together, and make it work for you. Whatever your AI or data-related needs, we have you covered.
+<br>
+<br>
+The owner of Secure Computer Solutions, <a href="https://sethbriney.com/ai">Seth L. Briney</a>, is an AI expert, having earned two master's degrees largely focused on AI (in mathematics and computer science). Seth has experience in various AI projects, notably applying deep learning, reinforcement learning control, and utilizing existing LLM (Large Language Model) API (Application Programming Interface) in web development. More details can be found on Seth's website.
+<br>
+<br>
+AI / data services we offer include:
+</details>
+</div> </div>
+
+<div class="main-content-box"> <div class="main-content"><details class="main-deets"> <summary class="main-summary"> <strong>
+LLMs (Large Language Models), ChatBots</strong></summary>
+
+LLMs are a type of generative language model with various numerous use-cases, including chatbots. LLMs draw on machine learning techniques to learn statistical patterns in text, and require immense amounts of data and power to learn. Thus, in most applications leaning on existing LLMs is more practical than creating new ones. We can engineer software for you, to integrate AI into your unique workflow.
+<br><br>
+We can make a custom chatbot for your website with a unique personality, knowledge, and instructions suited to your needs. The chatbot will be able to engage with customers who visit your website, and answer questions about your business. There are numerous other chatbot applications which we can build for whatever use-case you have.
+<br><br>
+Beyond website integration, LLMs have a wide array of uses for improving productivity, such as automating repetitive tasks, keeping workers on track, writing simple code snippets, searching large texts, and much more. We can write you custom software with embedded AI, to integrate into and enhance your workflow.
+<br><br>
+Though in most cases utilizing the API of an existing LLM is the most practical and cost-effective way to integrate LLMs into your workflow, it is not ideal for every scenario. In unique applications, we can fine-tune AI to your specialized need. This is especially useful if you have data that is relevant to the task you are trying to solve with AI.
+<br><br>
+In very specific scenarios, it may be useful to build an entirely new LLM. We can design a completely unique LLM model for you, or re-purpose an open-source model. This would allow you to have a more specialized design which you're in complete control of. We could host it on the cloud, or at your business. This approach is much more involved and costly than the products above.
+</details>
+</div> </div>
+
+<div class="main-content-box"> <div class="main-content"><details class="main-deets"> <summary class="main-summary"> <strong>
+Control and Decision Algorithms / Automation </strong></summary>
+Although LLMs can be used to some extent for control and decision tasks, that is not what they're designed for. For specialized tasks we have better suited techniques (such as deep reinforcement learning) which are more efficient, consistent, and accurate. In some cases, we can achieve perfect or near-perfect control results, especially in cases where the possible control actions / decisions and possible outcomes are known in advance. We also have techniques for handling more dynamic problems with an unknown or changing state/action space.
+<br><br>
+In this context, the difference between control and decision is somewhat thin. Control tasks tend to be ongoing and continuous, with well defined control actions, such as driving a car or mixing paint. Decision tasks are usually discrete, where you have a number of options to choose from and you do this once every so often.
+<br><br>
+Using these elegant methods for control, we can utilize prior knowledge and draw on your experience to guide AI, making actions consistent and reliable. We can pool together all your data from various sources, and utilize it to help you make informed decisions and increase revenue. For example:
+<br><br>
+Weighted risk (cost/benefit analysis): Utilize your data to make decisions which statistically minimize risk and maximize profit.
+<br><br>
+Other algorithms we offer services in include: deep reinforcement learning, rule-based methods, decision trees, random forests, linear / non-linear programming, dynamic programming, genetic programming...
+</details>
+</div> </div>
+
+<div class="main-content-box"> <div class="main-content"><details class="main-deets"> <summary class="main-summary"> <strong>
+Prediction / Forecasting </strong></summary>
+We design and deliver powerful predictive modeling tools that leverage deep learning and other statistical methods to forecast outcomes in complex, high-dimensional scenarios.
+<br>
+<br>
+Our predictive solutions are tailored to your business needs, enabling data-driven decision-making and providing actionable insights to optimize operations, improve efficiency, and drive growth.
+<br>
+<br>
+Example applications include:
+<ul>
+ <li>Forecasting sales trends using historical data, seasonal trends, and market conditions to drive informed business decisions</li>
+ <li>Optimizing inventory management through accurate predictions of demand, reducing stock imbalances, and enhancing net cash flow</li>
+ <li>Identifying customers at risk of leaving based on engagement patterns, purchase history, and sentiment analysis</li>
+ <li>Developing retention strategies through personalized offers and proactive customer engagement</li>
+</ul>
+</details>
+</div> </div>
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"><strong>
+Data storage and transfer
+  </strong></summary>
+Store and access your data remotely, without compromising your security. We offer unique and cost-effective remote access solutions that do not lock you into a third-party provider and do not carry monthly service fees.
+</details>
+</div> </div>
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"><strong>
+Data engineering
+  </strong></summary>
+  <br>
+We will clean up your data, and prepare it for analysis or training AI, saving you from the arduous task. We have stringent methods for keeping your data safe while it is in our care, and will completely erase it when your job is complete. We will never share your data with anyone, unless we are required by law.
+</details>
+</div> </div>
+
+<div class="main-content-box"> <div class="main-content">
+For AI and data services listed on this page, we charge $160 for small jobs such as consulting.
+
+For larger projects will make a contract and agree on milestone payments.
+</div> </div>
+contact.md
+---
+layout: default
+id: contact
+title: Contact SCS Bham 
+---
+permalink: /contact/
+
+<div class="main-content-box"> <div class="main-content">
+<h2 class="main-header"> Contact </h2>
+<p class="main-deets">
+You are welcome to contact us through any method listed in the footer at the bottom of this page.
+</p> </div> </div>
+
+<div class="main-content-box"> <div class="main-content"> <details class="main-deets">
+  <summary class="main-summary"> 🔐 (optional, most users can ignore) Show PGP Encryption Details </summary>
+  <p>Download <a href="/assets/keys/scs-public.key" download>scs-public.key</a>.</p>
+  <hr>
+     <strong>PGP Key Fingerprint:</strong><br>
+     <code>21A6 6F26 68C8 AF67 14AC E6DA CB2A 2D14 4C7D 1B27</code>
+  <p><strong>uid:</strong> Secure Computer Solutions<br>
+     <strong>SCS email key:</strong> admin@securecomputer.ai</p>
+</details>
+</div></div>
+header.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Secure Computer Solutions Bellingham</title>
+  <style>
+    :root {
+      --header-grad-c: linear-gradient(90deg, #273656 0%, #0e2233 100%);
+      --black: #191919;
+      --title-bg: #26262e;
+      --title-shadow: 0 4px 24px 0 rgba(0,0,0,0.42);
+    }
+
+    /* header bounding box */
+    .header-grad {
+      display: flex; /* 1d layout in rows or columns. Items expand or shrink */
+      flex-direction: column;     /* stack vertically */
+      justify-content: flex-start; /* simply stack the items, no extra vertical alignment */
+      align-items: center;        /* center horizontally */
+      width: 100%;                /* avoids 100vw overflow issues */
+      background: var(--header-grad-c);
+      z-index: 0;
+    }
+
+    /* title bounding box */
+    .title-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      background: var(--black);
+      z-index: 1; /* show up over header gradient */
+			  padding: 100px; /* or whatever value you want for border thickness */
+
+      padding: 32px;
+      box-sizing: border-box;
+    }
+
+    .title-screen {
+      width: clamp(120px, 40vw, 100vw);
+      height: clamp(72px, 5vw, 60vw);
+      background: var(--title-bg);
+      box-shadow: var(--title-shadow);
+      overflow: hidden;
+      z-index: 2; /* show up on top of title-card */
+      display: flex;
+      padding: 1rem 2rem;
+      gap: 2rem;
+      border-radius: 1.5rem;
+    }
+
+    .title {
+      font-family: "Segoe UI", "Arial", sans-serif;
+      font-size: 2.1rem;
+      color: #fafafa;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      line-height: 1.2;
+      text-shadow: 0 2px 12px rgba(0,0,0,0.13);
+      display: block;
+    }
+
+    .main-logo img {
+      display: block;
+      height: 64px;
+      width: auto;
+      border-radius: 0.5rem;
+      box-shadow: 0 2px 16px rgba(0,0,0,0.18);
+      background: #fff1;
+    }
+
+    @media (max-width: 600px) {
+      .title-screen {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+        min-height: 60px;
+        padding: 0.7rem 1rem;
+        gap: 1rem;
+      }
+      .main-logo img {
+        height: 44px;
+      }
+      .title {
+        font-size: 1.2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-grad"><!-- contains title-card and nav-menu -->
+      <div class="title-card"><!-- contains title-screen -->
+        <div class="title-screen"><!-- contains title and logo -->
+          <span class="title">Secure Computer<br>Solutions<br>Bellingham</span>
+          <span class="main-logo">
+            <img src="assets/images/shield_upscaled_smudge.png" alt="Logo">
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+</body>
+</html>
+
+index.md
+---
+layout: default
+id: intro
+title: SCS Bham
+---
+<div id="scroll-to" class="main-content-box"> <div class="main-content">
+<h2> Welcome to Secure Computer Solutions!<br>Located in Bellingham, WA.</h2>
+  <p>We provide AI consulting and development, cyber security, software development, and other IT solutions tailored to your needs.</p>
+</div> </div>
+
+<div class="main-content-box"> <div class="main-content">
+    <div>
+        <h2>IT and Cyber Security</h2>
+        <a href="it.html?doscroll=true">securecomputer.ai/it</a>
+    </div>
+  <details class="main-deets">
+    <summary class="main-summary"><strong>How we protect and optimize your systems</strong></summary>
+    <br>
+
+    We provide computer repair, data recovery, privacy hardening, and small-business IT support.
+    Our work is rooted in science and engineering — precise, methodical, and action-oriented.
+    We fix problems others give up on, reduce unnecessary costs, and help you get the most out of the hardware you already own.
+    <br><br>
+
+    <strong>Computer Repair & Optimization</strong><br>
+    • Laptop and desktop repair<br>
+    • Cleanups, speedups, malware removal<br>
+    • Broken installs, failed updates, boot issues<br><br>
+
+    <strong>System Services</strong><br>
+    • Windows 11 migration and clean installs<br>
+    • macOS, and Linux installations and system tuning<br>
+    • OS configuration, debloating, and troubleshooting<br><br>
+
+    <strong>Hardware Upgrades</strong><br>
+    • SSD and RAM upgrades<br>
+    • Battery replacements, component swaps<br>
+    • Extending hardware lifespan and improving performance<br><br>
+
+    <strong>Privacy Hardening</strong><br>
+    Reduce telemetry and data harvesting on Windows, Mac, Android, iPhone, and Linux.
+    Maintain control of your data and minimize unnecessary tracking.<br><br>
+
+    <strong>Data Recovery & Memories</strong><br>
+    Extract photos and files from old laptops, phones, hard drives, and forgotten devices — even failed systems.
+    We consolidate and organize your important memories with forensic-level scraping when needed.<br><br>
+
+    <strong>Hardware Salvage & Trade-In Options</strong><br>
+    Revive old computers, salvage usable components, or trade them in for value.
+    Our cost-saving mindset prioritizes re-use over replacement whenever possible.<br><br>
+
+  </details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+    <div>
+        <h2>Professional Business IT</h2>
+        <a href="it.html?business=true">securecomputer.ai/it#business</a>
+    </div>
+  <details class="main-deets">
+    <summary class="main-summary"><strong>Specialized engineering for business needs</strong></summary>
+    <br>
+We assist businesses with specialized technical projects, including:
+<ul>
+  <li>Designing custom systems for unique workflows</li>
+  <li>Building small custom software tools and integrations</li>
+  <li>Solving technical problems that don’t fit off-the-shelf solutions</li>
+  <li>Reducing reliance on large vendors and high recurring software costs</li>
+  <li>Introducing efficient, low-cost or open technologies when appropriate</li>
+</ul>
+
+Our focus is on clear, dependable solutions shaped around the specific requirements of the job.
+  </details>
+</div></div>
+
+
+<div class="main-content-box"> <div class="main-content">
+  <div class="main-deets">
+	<h2>AI and Data</h2>
+	<a href="ai.html?doscroll=true">securecomputer.ai/ai</a><br>
+  </div>
+  <details class="main-deets">
+    <summary class="main-summary">
+	Contact us now for a free consultation, to see how AI can enhance your business or personal life.
+    </summary>
+    Examples of AI solutions we offer include:<br>
+- Custom chatbot for your website.<br>
+- Data-driven analysis for actionable insights to cut costs and improve sales.<br>
+- Automation of repetitive tasks to free up your time and make work fun.<br>
+- Forecasting and contrasting outcomes of various strategies, or making data-driven predictions in general.<br>
+- Secure and encrypted data storage and transfer, in your hands.<br>
+- Custom cloud solutions for complex and unique integrations.<br>
+<br>
+Whether you're optimizing workflow or building new tools, we help you leverage AI effectively, securely, and profitably.
+  </details>
+</div> </div>
+
+<div class="main-content-box"> <div class="main-content">
+	<h2>Scheduling and Payment</h2>
+	<a href="scheduling.html?doscroll=true">securecomputer.ai/scheduling</a>
+	<details class="main-deets">
+		<summary class="main-summary"><strong>Rates, hours, and how to book</strong></summary>
+		<br>
+		We are open 11am–5pm daily, by appointment only.
+		<br><br>
+		<strong>Rates:</strong>
+		<ul>
+			<li>$120/hr for general IT and cyber security</li>
+			<li>$160/hr for AI consulting and development</li>
+		</ul>
+		<br>
+		Larger projects can be handled by milestone-based contracts.
+		<br><br>
+		Pay securely at:
+		<br>
+		<a href="https://www.paypal.com/ncp/payment/2945BQTEQSAHW" target="_blank" rel="noopener">
+			https://www.paypal.com/ncp/payment/2945BQTEQSAHW
+		</a>
+		<br><br>
+		We intentionally avoid embedded payment buttons for a more secure experience.
+	</details>
+</div></div>
+
+it.md
+---
+layout: default
+id: it
+title: IT SCS Bham 
+---
+<div id="scroll-to" class="main-content-box"> <div class="main-content">
+<h2> Information Technology and Cyber Security </h2>
+<p class="main-deets">
+Secure Computer Solutions is committed to protecting your data. We utilize advanced techniques to prevent or restore data loss, and to protect your privacy and security. Whatever your IT needs may be, we will find solutions which maintain the safety of your data throughout the entire process. We work with both home and business clients in the Bellingham, WA community.
+</p></div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+<summary class="main-summary">Our services include, but are not limited to:</summary>
+<ul>
+  <li>Apple Time Machine Extraction</li>
+  <li>Business IT services</li>
+  <li>Computer repair</li>
+  <li>Custom PC builds
+  </li>
+  <li>Data backup and recovery
+  </li>
+  <li>Data security
+  </li>
+  <li>Data migration
+  </li>
+  <li>Debugging
+  </li>
+  <li>Encryption
+  </li>
+  <li>Endpoint protection
+  </li>
+  <li>Hardware troubleshooting
+  </li>
+  <li>Internet Security
+  </li>
+  <li>IT Consulting
+  </li>
+  <li>Malware removal and prevention
+  </li>
+  <li>Media setup
+  </li>
+  <li>Networking
+  </li>
+  <li>Network security
+  </li>
+  <li>Password recovery
+  </li>
+  <li>Performance upgrades
+  </li>
+  <li>Remote access methods (third-party free)
+  </li>
+  <li>Remote services (third-party free)
+  </li>
+  <li>Photo scraping and consolidation
+  </li>
+  <li>Secure communication
+  </li>
+  <li>Systems design
+  </li>
+  <li>Tracking protection
+  </li>
+  <li>Virus removal
+  </li>
+</ul>
+</details> </div> </div>
+
+<div class="main-content-box"> <div class="main-content">
+  <div>
+    <h2>Photo Scraping & Device Consolidation</h2>
+  </div>
+
+  <details class="main-deets">
+    <summary class="main-summary"><strong>Recover photos and videos from old or failing devices</strong></summary>
+    <br>
+
+    We recover and consolidate photos and videos from a wide range of devices — old laptops, desktops, failing hard drives, USB sticks, phones, tablets, and even systems that no longer boot. Our process includes making a complete, sector-level backup to a customer-provided external SSD, ensuring your data stays safe throughout the entire job.
+    <br><br>
+
+    After imaging each device, we perform an exceptionally thorough search for photos, videos, and other media across the full backup: user folders, caches, system files, hidden directories, email stores, and any location where memories may be buried. This level of extraction goes well beyond standard tools and often recovers items long thought lost.
+    <br><br>
+
+    If you have multiple aging devices or disorganized storage, we can bring everything together into one clear, accessible archive of your important memories.
+    <br>
+
+  </details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+  <div>
+    <h2>Professional Business IT</h2>
+  </div>
+
+  <details class="main-deets">
+    <summary class="main-summary"><strong>Engineering-focused solutions for specialized business needs</strong></summary>
+    <br>
+
+    We assist businesses with technical projects that require careful engineering rather than conventional IT management. This includes designing systems for unusual workflows, building custom tools when no existing solution fits, and working through technical challenges that demand a deeper and more methodical approach.
+    <br><br>
+
+    <strong>Atypical Networking & End-to-End Security</strong><br>
+    We design networking and communication setups for environments where trust cannot be assumed. This includes situations with unusual constraints, mixed equipment, legacy hardware, or infrastructure that must be secured end-to-end. When data integrity and reliability are essential, we engineer paths that remain stable and predictable under real-world conditions.
+    <br><br>
+
+    <strong>Reducing Reliance on Large Vendors</strong><br>
+    When appropriate, we introduce open or independent technologies to give businesses more control over their systems and reduce their dependence on large commercial ecosystems. The goal is reliability and trust—systems that behave consistently and are not subject to changing policies, licenses, or external decisions.
+    <br><br>
+
+    <strong>Custom Software & Integration</strong><br>
+    When off-the-shelf software cannot handle a specific workflow, we design small, focused tools or integrations that address the exact requirement. These solutions are engineered for clarity, reliability, and long-term stability rather than feature bloat or complexity.
+    <br><br>
+
+    <strong>Engineering Mindset</strong><br>
+    Our approach is rooted in scientific thinking and systematic analysis. We work to understand each problem fully, design solutions that remain dependable under stress, and build systems that can be trusted to behave consistently over time.
+    <br>
+
+  </details>
+</div></div>
+
+
+<div class="main-content-box"> <div class="main-content">
+<p class="main-deets">
+For computer repair and other small IT jobs (not including those covered in <a href="ai.html">AI and Data</a>) we charge a flat $120/hr with an hour minimum for any services: on-site, in-shop, and remote. We are by appointment only, so please contact us using any method provided, prior to coming to the office.
+</p> </div> </div>
+
+<div class="main-content-box"> <div class="main-content">
+<p class="main-deets">
+No job is too small, and our list above does not cover every case. When in doubt, please reach out to us and ask.
+<br><br>
+For larger projects will make a contract and agree on milestone payments.
+<br><br>
+Contact us today for more details on how we can enhance your IT setup, and tailor solutions to your needs:
+</p></div></div>
+privacy.md
+---
+layout: default
+id: privacy
+title: Privacy SCS Bham
+---
+
+## Privacy
+
+<div id="scroll-to" class="main-content-box"> <div class="main-content">
+<p class="main-deets">
+The following privacy policy applies to The Future is Now AI, LLC under all of our trade names and brands. Including Secure Computer Solutions, SCS, and TFinAI.
+</p>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">The only exception to our privacy policy is that we use Google Console, so if you use Google to find our website, Google will provide us with some statistics.</summary>
+<br>
+Google provides us some statistics regarding how users find our site through Google, only if you use Google to access our site. The statistics Google provides us include information regarding clicks and links to our website such as: search queries, specific pages of our site, what countries users were in, whether a desktop mobile or tablet was used, and dates. This does not give us access to your IP address or any other personal information. Again, this tracking is performed by Google, and only when you access our site from Google: not if you access our website directly by entering securecomputer.ai into the address bar. We may look at this data from time to time only for the purpose of Search Engine Optimization while we build our customer-base. We will never provide it to any third parties, and we will never use it to attempt to identify users. There is no way for us to prevent Google from collecting this information.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">Commitment to Privacy</summary>
+     We will never gather or congregate any customer / user data (aside from the Google caveat above), beyond information you explicitly provide us which will be used only for the necessities of conducting business with you, and providing the services you request. We will never share your data with any third parties for marketing purposes, training AI, or any purpose beyond what is necessary for the services you request. If the services you request require us to share your data with a third party, we will only do so after receiving your explicit consent.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">Limited Sharing Under Legal Obligations</summary>
+However, we may be legally required to disclose certain information in response to valid legal requests, such as subpoenas, court orders, or if otherwise required by law enforcement or government agencies. In such cases, we will only disclose the minimum information necessary to comply with the law. Whenever permitted by law, we will notify you in advance of any such disclosure.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">Third party requests</summary>
+If third-party services are required to complete your order (e.g. warranty repairs, manufacturer involvement), we will inform you, and will only share any data after receiving your explicit consent.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">AI</summary>
+We believe the mass use of data for training AI, or other analytics, without consent, is unethical. We as a company will never use your data for such purposes, unless you specifically request it. Some of our custom AI services will require the use of data for training, in which case we will clearly communicate this with you, and only use data you provide us with your permission.
+</details></div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">This Website</summary>
+<p>We do not use any form of analytics or cookies on this website. We do not record your IP address, or collect any information regarding the use of our website. For transparency, our website is entirely open source, and is directly mapped from the following open source repository:<br>
+<a href="https://github.com/thefutureisnowai/thefutureisnowai.github.io" target="_blank" rel="noopener">
+  https://github.com/thefutureisnowai/thefutureisnowai.github.io
+</a>.
+<br>Note that The Future is now AI, LLC is our company name, but our Doing-Business-As name is Secure Computer Solutions. We control this repository and no other entity can modify it.
+</p>
+
+<p>
+We use GitHub (which is owned by Microsoft) to host our site, and we use GoDaddy as our domain registrar. These third-party companies are generally well established and respected, but we cannot guarantee that they will not collect any of your data. We encourage you to read their privacy policies if this is of concern:
+</p>
+
+<ul>
+  <li>
+    <a href="https://github.com/trust-center/privacy" target="_blank" rel="noopener">
+      GitHub Privacy Policy
+    </a>
+  </li>
+  <li>
+    <a href="https://www.godaddy.com/agreements/privacy" target="_blank" rel="noopener">
+      GoDaddy Privacy Policy
+    </a>
+  </li>
+</ul>
+
+</details>
+</div></div>
+robots.txt
+User-agent: *
+Allow: /
+Disallow:
+Sitemap: https://securecomputer.ai/sitemap.xml
+
+scheduling.md
+---
+layout: default
+id: scheduling
+title: Scheduling SCS Bham
+---
+<div id="scroll-to" class="main-content-box"> <div class="main-content">
+<h2>Scheduling</h2>
+<p> 11am–5pm, 7 days a week </p>
+<p class="main-deets"> We are open by appointment only, please contact us ahead of time to make sure we will be ready for you. Feel free to contact us outside of our normal hours of operation. We will always find a time that will work for you.  </p>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<h2> Pricing </h2>
+<p class="main-deets">
+General IT and security services offered in <a href="it.html">IT and Cyber Security</a> are $120/hr for small jobs.<br>
+<br>
+AI consulting, development, and integration offered in <a href="ai.html">AI and Data</a> are $160/hr for small jobs.<br>
+<br>
+For larger projects will make a contract and agree on milestone payments.
+</p></div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<h2> Payment </h2>
+<p class="main-deets">
+Online payments can be made to our PayPal business account at the following external URL:<br>
+<br>
+<a class="main-deets" href="https://www.paypal.com/ncp/payment/2945BQTEQSAHW" target="_blank" rel="noopener">
+  https://www.paypal.com/ncp/payment/2945BQTEQSAHW
+</a>
+<br>
+We have opted not to embed payment buttons on our site because they require cross-site scripting, which we have intentionally avoided to maintain a transparent and secure experience.
+</p>
+</div></div>
+security.md
+---
+layout: default
+id: security
+title: Security SCS Bham
+---
+
+<div id="scroll-to" class="main-content-box"> <div class="main-content">
+<h2> Security </h2>
+<p class="main-deets">
+ We look forward to providing you with secure solutions, but since we care deeply about your security, here are a few pieces of advice in the meantime. Don't worry if you don't understand everything. It's a lot to take in. We will be happy to explain anything or assist you with implementing these steps during a consultation or remote service.
+</p></div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Email security: phishing, scams, and malicious filters </summary>
+
+Email remains one of the most common attack vectors. Scammers use increasingly convincing messages to steal logins, install malware, or gain silent access to your accounts. Always be cautious with unexpected emails, especially those urging you to click links, open attachments, or “fix” something.
+
+<strong>General warnings:</strong>
+<ul>
+  <li>Do not click links unless you explicitly trust the sender.</li>
+  <li>Be skeptical of urgent language like “immediate action required.”</li>
+  <li>Double-check the full email address, not just the display name.</li>
+  <li>Never open attachments unless you were expecting them.</li>
+  <li>Don’t provide personal information in response to an email.</li>
+</ul>
+
+<strong>Malicious filters and forwarding rules</strong><br>
+A widespread but lesser-known tactic is tricking users into modifying their email filters or rules. Scammers may instruct you to:
+<ul>
+  <li>"Add a filter to fix your inbox"</li>
+  <li>"Block certain warnings for security"</li>
+  <li>"Filter out these system messages"</li>
+  <li>"Forward mail to this support address"</li>
+</ul>
+
+These filters often hide security alerts, delete verification messages, or silently forward your mail to the attacker. If anything directs you to “fix” your inbox by adding filters or rules, it is almost certainly fraudulent.
+
+<strong>What attackers try to do with filters:</strong>
+<ul>
+  <li>Hide password-reset warnings</li>
+  <li>Delete security notifications</li>
+  <li>Forward all mail to themselves without your knowledge</li>
+  <li>Auto-archive messages from legitimate services</li>
+</ul>
+
+<strong>We can help you review your email safely:</strong>
+<ul>
+  <li>Detect unauthorized filters and forwarding rules</li>
+  <li>Check for compromised login sessions</li>
+  <li>Identify connected third-party apps you didn’t approve</li>
+  <li>Secure your account with MFA and proper recovery options</li>
+</ul>
+
+If anything feels “off” with your inbox — missing emails, strange behavior, or unexpected login prompts — bring it in for a checkup. Email compromise often happens silently, and early detection matters.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Home network & Wi-Fi security </summary>
+
+Your home Wi-Fi is the entry point to every device on your network. If someone gains access—through a weak password, old router settings, or insecure features—they can intercept traffic, redirect your connections, or tamper with new devices as they join.
+
+<strong>Recommended hardening steps:</strong>
+<ul>
+  <li>Use WPA3 when available (WPA2 at minimum).</li>
+  <li>Change the default router admin password immediately.</li>
+  <li>Disable WPS (Wi-Fi Protected Setup) — it is insecure and can be brute-forced.</li>
+  <li>Keep your router’s firmware updated to patch vulnerabilities.</li>
+  <li>Create a separate guest network for IoT devices.</li>
+</ul>
+
+<strong>Rogue DHCP responses (local network interception)</strong><br>
+When a new device connects to your Wi-Fi, it broadcasts a request for an IP address. If an attacker has already joined your network, they can reply faster than your router and assign:
+<ul>
+  <li>a fake IP address,</li>
+  <li>a fake DNS server,</li>
+  <li>a fake default gateway.</li>
+</ul>
+
+This allows the attacker to reroute or monitor your traffic, perform man-in-the-middle attacks, or redirect you to fraudulent websites. This type of attack is called a <em>rogue DHCP server</em> or <em>DHCP spoofing</em>.
+
+<strong>Rogue access points (false routers)</strong><br>
+Attackers can also create fake Wi-Fi networks designed to look like yours. If you accidentally connect, they can intercept unencrypted traffic and manipulate DNS responses. Warning signs include duplicate network names, unexpected disconnects, or continual re-authentication prompts.
+
+<strong>We can help you strengthen your home network:</strong>
+<ul>
+  <li>Secure router configuration and firmware checks</li>
+  <li>WPA3 setup and password hardening</li>
+  <li>Detection of unauthorized devices and rogue access points</li>
+  <li>DNS hardening and safer network defaults</li>
+  <li>Network isolation for IoT devices</li>
+</ul>
+
+Securing your home Wi-Fi is one of the most effective ways to protect all the devices you rely on every day.
+</details>
+</div></div>
+
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Password management & avoiding reuse </summary>
+
+Weak or reused passwords are one of the most common causes of account compromise. When one website suffers a data breach, attackers try the same password on your email, banking, and social media accounts. This is why unique passwords are essential.
+
+<strong>Guidelines:</strong>
+<ul>
+  <li>Never reuse passwords — especially not for your email.</li>
+  <li>Use long, hard-to-guess passwords or passphrases.</li>
+  <li>Avoid personal details (birthdays, names, pets, addresses).</li>
+  <li>Turn on MFA for important accounts, especially email and banking.</li>
+</ul>
+
+<strong>Password managers</strong>  
+A password manager can create and store strong, unique passwords automatically. This dramatically improves your security while reducing the stress of remembering everything yourself. If you don’t want to use a password manager, consider using long passphrases and a few structured memory techniques.
+
+We can help you choose a secure password manager, migrate your accounts safely, and strengthen your overall security posture.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Multi-Factor Authentication (MFA) & account recovery </summary>
+
+Enabling MFA is one of the strongest steps you can take to protect your accounts. It prevents most forms of unauthorized access, even if your password is stolen. However, MFA is only effective if it’s set up correctly.
+
+<strong>Best practices include:</strong>
+<ul>
+  <li>Use an authenticator app (not SMS) whenever possible — SMS can be intercepted</li>
+  <li>Set up multiple MFA methods: authenticator app, recovery codes, and a backup device</li>
+  <li>Store your recovery codes offline in a safe place</li>
+  <li>Avoid using only your phone number for recovery — phone numbers can be ported or SIM-swapped</li>
+  <li>Review your account’s recovery email, phone number, and trusted devices periodically</li>
+</ul>
+
+<strong>Biometrics</strong>  
+Biometric authentication (fingerprint, face unlock) is convenient and secure for everyday use, but it should always be paired with strong MFA and proper recovery options. Biometrics are excellent second factors — but should not be your only line of defense.
+
+We can help you configure MFA safely, check for insecure recovery settings, and lock down your accounts against takeover.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary">Back up your data</summary>
+Any data you care about should be backed up in at least two places. There are numerous options for this including cloud backups, external SSDs, flash drives, ... . There are options for creating incremental snapshots of your entire system, or you can manually copy files, or something in between. We can handle the entire process for you. 
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Use a firewall </summary>
+A firewall acts as a barrier to prevent unauthorized access to your device while connected to the internet, we advise you to make sure yours is enabled. Most operating systems come with a firewall installed, but often do not have it enabled by default. Historically, firewalls would often conflict with online games and other programs, however with modern technology this less common, if a conflict does arise we can configure your firewill to work for you.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Verify Programs </summary>
+Don't run anything you don't trust, and always use official sources for your downloads. Be extremely cautious about running programs you download off the internet, and verify your downloads when possible.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Updates: Keeping up with security updates is important </summary>
+Ideally you should check for and install security updates every time you use your computer. Vulnerabilities are often discovered and patched on a daily basis.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Power Off / Disconnect the Internet </summary>
+Some malicious software can run in the background, and even wait until your computer is inactive to kick in. Disconnecting the internet is the most important first step if you think your computer has been infected. After disconnecting the internet, turn your computer off and bring it in for a full virus / malware removal.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Anti-Virus Software </summary>
+It is a good idea to regularly scan your computer for viruses, and to use real-time detection services. If you use Windows, you can use Windows Defender, which is free and already built-in to Windows. There are good or better alternatives, but be cautious about which service you choose. It's best to try to avoid viruses in the first place rather than relying on virus scans.
+</details>
+</div></div>
+
+<div class="main-content-box"> <div class="main-content">
+<details class="main-deets">
+  <summary class="main-summary"> Avoid http: Use https </summary>
+  Most browsers have an indicator immediately to the left of the address bar which tells you if a page is using http or https. Using http is not secure, and can leave you vulnerable to data-theft, man-in-the-middle attacks, and other cyber attacks. On the other hand, https is encrypted which makes it far less vulnerable.
+</details>
+</div></div>
+sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://securecomputer.ai/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/about/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/contact/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/privacy/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/scheduling/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/security/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/ai/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://securecomputer.ai/it/</loc>
+        <lastmod>2025-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
