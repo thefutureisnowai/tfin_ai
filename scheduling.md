@@ -12,11 +12,9 @@ title: Scheduling TFinAI Bham
 <div class="main-content-box"> <div class="main-content">
 <h2> Pricing </h2>
 <p class="main-deets">
-General IT and security services offered in <a href="it.html">IT and Cyber Security</a> are $120/hr for small jobs.<br>
+All TFinAI services are billed at $160/hr for small jobs.<br>
 <br>
-AI consulting, development, and integration offered in <a href="ai.html">AI and Data</a> are $160/hr for small jobs.<br>
-<br>
-For larger projects will make a contract and agree on milestone payments.
+For larger projects we work through contracts with milestone payment checkpoints.
 </p></div></div>
 
 <div class="main-content-box"> <div class="main-content">
