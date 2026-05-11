@@ -4,14 +4,13 @@ id: intro
 title: TFinAI Bham
 ---
 
-<div id="scroll-to" class="main-content-box"> <div class="main-content">
-<h2>Welcome to TFinAI<br>Located in Bellingham, WA.</h2>
+<div class="main-content-box"> <div class="main-content">
+  <div>
+    <h2>Welcome to TFinAI<br>Located in Bellingham, WA.</h2>
+  </div>
 
-<p class="main-deets">
-<p class="main-deets">
-Live in the future and stay ahead of the competition without losing your humanity.
-<br><br>
-
+  <details class="main-deets">
+    <summary class="main-summary"><strong>Live in the future and stay ahead of the competition, without losing your humanity.</strong></summary>
 AI systems are powerful assistive tools that should support humanity rather than replace it. No AI system can rival human judgment, ethics, creativity, or lived experience; but intelligently designed systems can help organizations operate efficiently, adapt to a rapidly evolving landscape, and stay ahead of the curve.
 <br><br>
 
@@ -22,9 +21,8 @@ TFinAI is a professional scientific and technical services company focused on in
 <br><br>
 
 We help businesses modernize, strengthen security, streamline operations, and integrate emerging technologies without losing sight of the people who use them.
-</p>
-
-</p></div> </div>
+  </details>
+</div></div>
 
 <div class="main-content-box"> <div class="main-content">
   <div>
