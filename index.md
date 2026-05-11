@@ -3,8 +3,7 @@ layout: default
 id: intro
 title: TFinAI Bham
 ---
-
-<div class="main-content-box"> <div class="main-content">
+<div class="main-content-box" id="scroll-to"> <div class="main-content">
   <div>
     <h2>Welcome to TFinAI<br>Located in Bellingham, WA.</h2>
   </div>
